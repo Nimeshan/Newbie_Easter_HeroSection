@@ -1,0 +1,95 @@
+h1{
+	color: yellow;
+	font-family: "Roboto Mono", monospace;
+	padding-left: 100px;
+	padding-top: 22px;
+	line-height: 0.99;
+}
+
+p{
+	color: lightblue;
+	margin-top: 10px;
+	margin-bottom: 30px;
+	padding-top: 0px;
+	padding-left: 100px;
+	line-height: 0.5;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  padding-left: 420px;
+  overflow: hidden;
+  background-color: #100210;
+  overflow: hidden;
+  top: 0px;
+  width: 100%
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:focus {
+  background-color: #54A24D;
+}
+
+header{
+	padding-top: 0;
+	margin-top: 0;
+}
+
+.Hero{
+	padding: 85px;
+	background-color: #5e357f;
+	padding-bottom: 125px;
+
+}
+
+.Image container {
+  text-align: center;
+}
+
+.hero-img {
+  display: inline-block;
+  float: right;
+  max-height: 30%;
+  max-width: 30%;
+  padding-top: 83px;
+  padding-right: 255px;
+}
+
+.ShopButton{
+	background-color: yellow;
+	padding: 12px;
+	margin-left: 100px;
+	margin-top: 1px;
+}
+
+.BL{
+	color: #54A24D;
+	text-decoration: none; 
+}
+
+.BL:hover{
+	color: red;
+	text-decoration: none; 
+}
+
+.BL:visited{
+	color: black;
+	text-decoration: none; 
+}
+
+.Logos{
+	background-color: yellow;
+}
